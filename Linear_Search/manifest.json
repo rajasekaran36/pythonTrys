@@ -1,0 +1,12 @@
+{
+  "visible_filenames": [
+    "LinearSearcher.py",
+    "cyber-dojo.sh",
+    "instructions",
+    "test_linear_searcher.py"
+  ],
+  "display_name": "Python, unittest",
+  "image_name": "cyberdojofoundation/python_unittest",
+  "filename_extension": ".py",
+  "tab_size": 4
+}
