@@ -5,8 +5,16 @@
 
 Write a python program to do linear search operations on a list
 ### Operations
-0.sizeOfList
-1.isMonoTypeList
+0. sizeOfList
+1. Is list is a MonoTypeList?
+2. Is list is EmptyList?
+3. Is list has only one Element?
+4. Is Element is Available in the List?
+5. Find Maximum Element in List.
+6. Find Minimum Element in List.
+7. Find Element at the position.
+8. Find the position of the Element.
+9. Find the List is Sorted or not.
 ```python
 def sizeOfList(list):
     return len(list)
