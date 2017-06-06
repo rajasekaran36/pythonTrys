@@ -1,4 +1,10 @@
 # Linear Searcher
+[TOC]
+
+## Problem Statement
+
+Write a python program to do linear search operations on a list
+
 ```python
 def sizeOfList(list):
     return len(list)
