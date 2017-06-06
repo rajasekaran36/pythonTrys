@@ -13,6 +13,8 @@ Write a python program to do linear search operations on a list
 7. Find Element at the position.
 8. Find the position of the Element.
 9. Find the List is Sorted or not.
+
+## Solution Key
 ```python
 def sizeOfList(list):
     return len(list)
