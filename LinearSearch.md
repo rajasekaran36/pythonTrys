@@ -4,7 +4,9 @@
 ## Problem Statement
 
 Write a python program to do linear search operations on a list
-
+### Operations
+0.sizeOfList
+1.isMonoTypeList
 ```python
 def sizeOfList(list):
     return len(list)
