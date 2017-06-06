@@ -1,4 +1,4 @@
-#Linear Searcher
+# Linear Searcher
 ```python
 def sizeOfList(list):
     return len(list)
