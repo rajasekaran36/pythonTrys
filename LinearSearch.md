@@ -2,10 +2,8 @@
 [TOC]
 
 ## Problem Statement
-
 Write a python program to do linear search operations on a list
-### Operations
-0. sizeOfList
+0. Find the size of the list.
 1. Is list is a MonoTypeList?
 2. Is list is EmptyList?
 3. Is list has only one Element?
