@@ -1,5 +1,5 @@
 #Linear Searcher
-''' python
+```python
 def sizeOfList(list):
     return len(list)
 
@@ -121,5 +121,4 @@ def findTheElementInPosition(list, position_of_element):
            return "Position is OutBound"
     else:
         return "Invalid List"
-            
-...
+```
